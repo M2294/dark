@@ -1,0 +1,184 @@
+
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color:  hsl(217, 28%, 15%);
+   
+}
+.nav-bar{width:100%;}
+nav{display: flex;}
+.nav-photo{width:30%}
+.nav-photo img{width:30%;margin-top: 30px;margin-left: 20%;}
+.nav-info{width:70%;}
+ul{display: inline;float: right;}
+.nav-info li {
+    list-style-type: none;   display: inline;  margin-right: 20px;
+    width:100%;color: white;cursor: pointer;
+}
+.files{width: 100%;}
+.files-all{width:50%;margin-left: 25%;height: 600px;;
+}
+.files-all img{width: 100%;height: 350px;}
+.files-all h2{color:white ;text-align: center;}
+.files-all h5 {color:rgb(212, 212, 212) ;text-align: center;}
+.files-all p{
+    color:white ;
+    text-align: center;
+    border:1px solid hsl(176, 68%, 64%);
+    width:25%;
+    margin-left: 35%;
+    border-radius:15px;
+    padding: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+}
+.main{
+    width:100%;
+    height: 100vh;
+    position: relative;
+    margin-top: 5%;
+}
+.main img{position: absolute;width:100%;z-index: -1 ;
+         height: 100%;}
+
+.cat{width:50%;margin-left: 25%;height: 300px; display: flex; flex-wrap: wrap;}
+.cat1{width:55%;height: 300px; }
+.cat1 img{width:7%;height: 70px;margin-left: 10%;margin-bottom: 50px; }
+.cat2{width:45%;height: 300px;}
+.cat2 img{width:7%;height: 70px;margin-left: 7%;  }
+.cat1 h2{margin-top: 80px;text-align: center; color: white;}
+.cat2 h2{margin-top: 80px;text-align: center; color: white; }
+.cat1 h5{text-align:center; color:rgb(175, 175, 175); }
+.cat2 h5{text-align:center;  color:rgb(175, 175, 175);   }
+.main2{ width:100%;background-color: hsl(218, 28%, 13%)} 
+.stay{width:70%;margin-left: 15%; height: 400px; display: flex;}
+.stay img{width:50%; height: 400px;}
+.stay-t{margin-left: 5%;margin-top: 10%;}
+.stay-t h2{ color: white; }
+.stay-t h5{color:rgb(175, 175, 175); }
+.stay-t h6 {font-size: 18px; color:hsl(176, 68%, 64%);
+    text-decoration: underline; 
+    text-underline-offset: 10px;
+    cursor: pointer;
+} 
+.stay-t img {width:20px; height: 20px;}
+.all{width:100%; position: relative; }
+.test{width:100%;margin-top: 5%; display: flex; }
+.test1{
+    width:25%;
+    margin-left:10%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+    z-index: 20; 
+}
+.img{position: absolute; margin-left: 10%;
+    z-index: 15;
+   
+margin-top:-30px} 
+.test1 h5{ color :rgb(228, 227, 227)}
+.test1 img{
+    border-radius: 50px;
+    width:30px
+}
+.test-all1{display: inline-block;}
+.test-all1 h6{color: white; margin-top: 5px;line-height: 1.5em;}
+.test-all1 span{ color:rgb(175, 175, 175) ;
+font-size: 8px;
+}
+
+
+
+.test2{
+    width:25%;
+    margin-left:2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+}
+.test2 h5{ color :rgb(228, 227, 227)}
+.test2 img{
+    border-radius: 50px;
+    width:30px
+}
+.test-all2 {display: inline-block;}
+.test-all2 h6{color: white; margin-top: 5px;line-height: 1.5em;}
+.test-all2 span{ color:rgb(175, 175, 175) ;
+font-size: 8px;
+}
+
+
+
+
+
+.test3{
+    width:25%;
+    margin-left: 2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+
+}
+.test3 h5{ color :rgb(228, 227, 227)}
+.test3 img{
+    border-radius: 50px;
+    width:30px
+}
+.test-all3{display: inline-block;}
+.test-all3 h6{color: white; margin-top: 5px;line-height: 1.5em;}
+.test-all3 span{ color:rgb(175, 175, 175) ;
+font-size: 8px;
+}
+
+.main3{width:100% ;background-color: hsl(218, 28%, 13%) }
+.search{
+    top: 100px;
+    position: relative;
+    width:50%;
+    margin-left: 25%;
+    background-color: hsl(218, 26%, 18%);
+    padding: 10px;
+    text-align: center;
+}
+.search h1{color: white;}
+.search h6{color: rgb(175, 175, 175) ;}
+input{
+    margin-left: -10%; 
+    width:50%;
+    padding: 15px;
+    border-radius: 20px;
+    outline: none;
+}
+.search p{
+    display: inline;
+    color:white ;
+    text-align: center;
+    border:1px solid hsl(176, 68%, 64%);
+    margin-left: 10px;
+    border-radius:15px;
+    padding: 10px;
+    cursor: pointer;
+    background-image: linear-gradient(to right, hsl(176, 68%, 64%),hsl(198, 60%, 50%));
+}
+footer{
+    background-color: hsl(216, 53%, 9%);
+    height: 350px;
+    width:100%
+}
+.footer{width:100%;position: relative ;top:45%;
+    
+    display: flex } 
+.fo1{width:25%;margin-left: 5%;}
+.fo2{width:20%;margin-left: 4%;}
+.fo3{width:25%; column-count: 2;}
+.fo4{width:25%; }
+.fo4 svg {margin-left: 15px; cursor: pointer;}
+.fo3 p{color: rgb(181, 181, 181); cursor: pointer;}
+.d{margin-left:20px;line-height: 3.5em;}
+.a{margin-left:20px;}
+ footer p {
+
+    margin-block-start: 0em;
+
+}
+.if1{overflow: hidden;}
+.hf1{display: inline; color: rgb(181, 181, 181);}
+

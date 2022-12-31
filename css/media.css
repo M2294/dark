@@ -1,0 +1,1242 @@
+@media (min-width: 300px) {
+  .nav-photo {
+    width: 20%;
+  }
+  .nav-photo img {
+    width: 80%;
+    margin-top: 22px;
+    margin-left: 20%;
+  }
+  .nav-info {
+    width: 80%;
+  }
+  .nav-info li {
+    font-size: 13px;
+  }
+  .files-all {
+    width: 90%;
+    margin-left: 5%;
+    height: 600px;
+  }
+  .files-all p {
+    width: 50%;
+    margin-left: 25%;
+  }
+  .main {
+    width: 100%;
+    height: 140vh;
+    position: relative;
+    margin-top: 15%;
+  }
+  .cat {
+    width: 90%;
+    margin-left: 5%;
+    height: 300px;
+    display: block;
+    flex-wrap: block;
+}
+.cat1 {
+    width: 90%;
+    height: 220px;
+    margin-left: 5%;
+}
+.cat1 img {
+    width: 30%;
+    height: 70px;
+    margin-left: 30%;
+    margin-bottom: 50px;
+}
+.cat1 h2 ,.cat2 h2{
+font-size: 15px;
+}
+.cat2 {
+    width: 90%;
+    height: 220px;
+    margin-left: 5%;
+}
+.cat2 img {
+    width: 25%;
+    height: 70px;
+    margin-left: 30%;
+}
+.stay {
+    width: 70%;
+    margin-left: 15%;
+    height:80vh;
+    display: block;
+}
+.stay img {
+    width: 90%;
+    margin-left: 5%;
+    height: 130px;
+}
+.stay-t h6 {
+    font-size: 12px;
+  
+}
+.stay-t img{
+    width: 15%;
+    height: 20px;
+}
+.test {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    display: block;
+}
+.test1 {
+    width:90%;
+    margin-left:2%;
+    background-color: hsl(219, 30%, 18%);
+    padding: 10px;
+    z-index: 20;
+}
+.test2 {
+    width:90%;
+    margin-left:2%;
+    margin-top: 5%;
+    background-color: hsl(219, 30%, 18%);
+    padding: 10px;
+}
+.test3 {
+    width:90%;
+    margin-left:2%;
+    margin-top: 5%;
+    background-color: hsl(219, 30%, 18%);
+    padding: 10px;
+}
+.search {
+    top: 91px;
+    height: 220px;
+    position: relative;
+    width: 90%;
+    margin-left: 2%;
+    margin-right: 5%;
+    background-color: hsl(218, 26%, 18%);
+    padding: 10px;
+}
+.search h1 {
+   font-size: 15px;
+}
+input {
+    margin-left: 0%;
+    width: 90%;
+    height: 5px;
+    margin-bottom: 15px;
+}
+.search p {
+    margin-left: 0%;
+    width: 90%;
+
+   }
+   .footer {
+    width: 100%;
+    position: relative;
+    top: 35%;
+    display: block;
+    background-color: hsl(216, 53%, 9%);
+}
+.fo1 , .fo2 {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 15px;
+}
+.fo3{
+    width: 90%;
+    margin-left: 5%;
+    column-count: 1;
+}
+.fo4 {
+    width: 25%;
+    margin-left: 25%;
+    display: inline;
+    
+}
+.fo4 svg {
+    width: 15px;
+    height: 30px;
+    fill: white;
+}
+}
+@media (min-width: 400px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+      font-size: 13px;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+      width: 50%;
+      margin-left: 25%;
+    }
+    .main {
+      width: 100%;
+      height: 140vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: block;
+      flex-wrap: block;
+  }
+  .cat1 {
+      width: 90%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat1 img {
+      width: 30%;
+      height: 70px;
+      margin-left: 30%;
+      margin-bottom: 50px;
+  }
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 90%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+      width: 25%;
+      height: 70px;
+      margin-left: 30%;
+  }
+  .stay {
+      width: 70%;
+      margin-left: 15%;
+      height:80vh;
+      display: block;
+  }
+  .stay img {
+      width: 90%;
+      margin-left: 5%;
+      height: 130px;
+  }
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+      display: block;
+  }
+  .test1 {
+      width:90%;
+      margin-left:2%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+      z-index: 20;
+  }
+  .test2 {
+      width:90%;
+      margin-left:2%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .test3 {
+      width:90%;
+      margin-left:2%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 90%;
+      margin-left: 2%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 35%;
+      display: block;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1 , .fo2 {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 15px;
+  }
+  .fo3{
+      width: 90%;
+      margin-left: 5%;
+      column-count: 1;
+  }
+  .fo4 {
+      width: 25%;
+      margin-left: 25%;
+      display: inline;
+      
+  }
+  .fo4 svg {
+      width: 15px;
+      height: 30px;
+      fill: white;
+  }
+  }
+
+  @media (min-width: 500px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+      font-size: 13px;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+      width: 50%;
+      margin-left: 25%;
+    }
+    .main {
+      width: 100%;
+      height: 140vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: block;
+      flex-wrap: block;
+  }
+  .cat1 {
+      width: 90%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat1 img {
+      width: 30%;
+      height: 70px;
+      margin-left: 30%;
+      margin-bottom: 50px;
+  }
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 90%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+      width: 25%;
+      height: 70px;
+      margin-left: 30%;
+  }
+  .stay {
+      width: 70%;
+      margin-left: 15%;
+      height:80vh;
+      display: block;
+  }
+  .stay img {
+      width: 90%;
+      margin-left: 5%;
+      height: 130px;
+  }
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+      display: block;
+  }
+  .test1 {
+      width:90%;
+      margin-left:2%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+      z-index: 20;
+  }
+  .test2 {
+      width:90%;
+      margin-left:2%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .test3 {
+      width:90%;
+      margin-left:2%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 90%;
+      margin-left: 2%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 35%;
+      display: block;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1 , .fo2 {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 15px;
+  }
+  .fo3{
+      width: 90%;
+      margin-left: 5%;
+      column-count: 1;
+  }
+  .fo4 {
+      width: 25%;
+      margin-left: 25%;
+      display: inline;
+      
+  }
+  .fo4 svg {
+      width: 15px;
+      height: 30px;
+      fill: white;
+  }
+  }
+  @media (min-width: 600px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+        font-size: 18px ;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+      width: 50%;
+      margin-left: 25%;
+    }
+    .main {
+        width: 90%;
+        margin-left: 5%;
+      height: 100vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .cat1 {
+      width: 40%;
+      height: 300px;
+     
+  }
+  .cat1 img{
+    width:18%;
+    height: 70px;
+    margin-left: 10%;
+    margin-bottom: 50px; }
+
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 40%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+    width: 20%;
+    height: 70px;
+    margin-left: 7%;
+  }
+  .stay {
+      width: 70%;
+      margin-left: 15%;
+      height:80vh;
+      display: block;
+  }
+  .stay img {
+      width: 90%;
+      margin-left: 5%;
+      height: 240px;
+  }
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+      display: block;
+  }
+  .test1 {
+      width:70%;
+      margin-left:15%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+      z-index: 20;
+  }
+  .test2 {
+      width:70%;
+      margin-left:15%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .test3 {
+      width:70%;
+      margin-left:15%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 70%;
+      margin-left: 15%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 35%;
+      display: block;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1 , .fo2 {
+      width: 50%;
+      margin-left: 5%;
+      margin-top: 15px;
+  }
+  .fo3{
+      width: 90%;
+      margin-left: 5%;
+      column-count: 1;
+  }
+  .fo4 {
+      width: 25%;
+      margin-left: 40%;
+      display: inline;
+      
+  }
+  .fo4 svg {
+      width: 15px;
+      height: 30px;
+      fill: white;
+  }
+  .img {
+    position: absolute;
+    margin-left: 18%;
+    z-index: 15;
+    margin-top: -30px;
+}
+  }  
+  @media (min-width: 700px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+        font-size: 18px ;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+      width: 50%;
+      margin-left: 25%;
+    }
+    .main {
+        width: 90%;
+        margin-left: 5%;
+      height: 100vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .cat1 {
+      width: 40%;
+      height: 300px;
+     
+  }
+  .cat1 img{
+    width:18%;
+    height: 70px;
+    margin-left: 10%;
+    margin-bottom: 50px; }
+
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 40%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+    width: 20%;
+    height: 70px;
+    margin-left: 7%;
+  }
+  .stay {
+      width: 70%;
+      margin-left: 15%;
+      height:80vh;
+      display: block;
+  }
+  .stay img {
+      width: 90%;
+      margin-left: 5%;
+      height: 240px;
+  }
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      margin-top: 5%;
+      display: block;
+  }
+  .test1 {
+      width:70%;
+      margin-left:15%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+      z-index: 20;
+  }
+  .test2 {
+      width:70%;
+      margin-left:15%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .test3 {
+      width:70%;
+      margin-left:15%;
+      margin-top: 5%;
+      background-color: hsl(219, 30%, 18%);
+      padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 70%;
+      margin-left: 15%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 30%;
+      display: flex;
+      flex-wrap: wrap;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1{width:25%;margin-left: 5%;}
+  .fo2{width:25%;margin-left: 4%;  margin-top: 10%;}
+  .fo3{width:20%; column-count: 2;margin-top: 10%;}
+  .fo4{width:25%; display: inline;}
+  
+  .img {
+    position: absolute;
+    margin-left: 18%;
+    z-index: 15;
+    margin-top: -30px;
+}
+  }
+  @media (min-width:800px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+        font-size: 18px ;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+        width: 25%;
+        margin-left: 36%;
+    }
+    .main {
+        width: 90%;
+        margin-left: 5%;
+      height: 100vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .cat1 {
+      width: 40%;
+      height: 300px;
+     
+  }
+  .cat1 img{
+    width:18%;
+    height: 70px;
+    margin-left: 10%;
+    margin-bottom: 50px; }
+
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 40%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+    width: 20%;
+    height: 70px;
+    margin-left: 7%;
+  }
+  .stay {
+    width: 80%;
+    margin-left: 10%;
+      height:80vh;
+      display: flex;
+  }
+  .stay img{width:50%; height: 400px;}
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      display: flex;
+  }
+  .test1 {
+    width:25%;
+    margin-left:10%;
+    margin-top: 5%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+    z-index: 20; 
+  }
+  .test2 {
+    width:25%;
+    margin-left:2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .test3 {
+    width:25%;
+    margin-left: 2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 50%;
+      margin-left: 25%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 30%;
+      display: flex;
+      flex-wrap: wrap;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1{width:25%;margin-left: 5%;}
+  .fo2{width:25%;margin-left: 4%;  margin-top: 10%;}
+  .fo3{width:20%; column-count: 2;margin-top: 10%;}
+  .fo4{width:25%; display: inline;}
+  
+  .img{position: absolute; margin-left: 15%;
+    z-index: 15;margin-top: 0;}
+  }
+  @media (min-width:900px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+        font-size: 18px ;
+    }
+    .files-all {
+      width: 90%;
+      margin-left: 5%;
+      height: 600px;
+    }
+    .files-all p {
+        width: 25%;
+        margin-left: 36%;
+    }
+    .main {
+        width: 90%;
+        margin-left: 5%;
+      height: 100vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .cat1 {
+      width: 40%;
+      height: 300px;
+     
+  }
+  .cat1 img{
+    width:10%;
+    height: 70px;
+    margin-left: 13%;
+    margin-bottom: 50px; }
+
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 40%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+    width: 10%;
+    height: 70px;
+    margin-left: 13%;
+  }
+  .stay {
+    width: 80%;
+    margin-left: 10%;
+      height:80vh;
+      display: flex;
+  }
+  .stay img{width:50%; height: 400px;}
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      display: flex;
+  }
+  .test1 {
+    width:25%;
+    margin-left:10%;
+    margin-top: 5%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+    z-index: 20; 
+  }
+  .test2 {
+    width:25%;
+    margin-left:2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .test3 {
+    width:25%;
+    margin-left: 2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 50%;
+      margin-left: 25%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 30%;
+      display: flex;
+      flex-wrap: wrap !important;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1{width:25%;margin-left: 2% !important; margin-top: 5%;}
+  .fo2{width:25%;margin-left: 2% !important;}
+  .fo3{width:20%; column-count: 2 !important;}
+  .fo4{width:15% !important ; position: absolute; left:40%;top: 45%;
+}
+  .fo4 svg {margin-left: 15px; cursor: pointer;}
+  .img{position: absolute; margin-left: 15%;
+    z-index: 15;margin-top: 0;}
+
+
+    
+  }
+  @media (min-width:1000px) {
+    .nav-photo {
+      width: 20%;
+    }
+    .nav-photo img {
+      width: 80%;
+      margin-top: 22px;
+      margin-left: 20%;
+    }
+    .nav-info {
+      width: 80%;
+    }
+    .nav-info li {
+        font-size: 18px ;
+    }
+    .files-all {
+      width: 60%;
+      margin-left: 20%;
+      height: 600px;
+    }
+    .files-all p {
+        width: 25%;
+        margin-left: 36%;
+    }
+    .main {
+        width: 90%;
+        margin-left: 5%;
+      height: 100vh;
+      position: relative;
+      margin-top: 15%;
+    }
+    .cat {
+      width: 90%;
+      margin-left: 5%;
+      height: 300px;
+      display: flex;
+      flex-wrap: wrap;
+  }
+
+  .cat1 {
+      width: 40%;
+      height: 300px;
+     
+  }
+  .cat1 img{
+    width:10%;
+    height: 70px;
+    margin-left: 13%;
+    margin-bottom: 50px; }
+
+  .cat1 h2 ,.cat2 h2{
+  font-size: 15px;
+  }
+  .cat2 {
+      width: 40%;
+      height: 220px;
+      margin-left: 5%;
+  }
+  .cat2 img {
+    width: 10%;
+    height: 70px;
+    margin-left: 13%;
+  }
+  .stay {
+    width: 80%;
+    margin-left: 10%;
+      height:80vh;
+      display: flex;
+  }
+  .stay img{width:50%; height: 400px;}
+  .stay-t h6 {
+      font-size: 12px;
+    
+  }
+  .stay-t img{
+      width: 8%;
+      height: 20px;
+  }
+  .test {
+      width: 90%;
+      margin-left: 5%;
+      display: flex;
+  }
+  .test1 {
+    width:25%;
+    margin-left:10%;
+    margin-top: 5%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+    z-index: 20; 
+  }
+  .test2 {
+    width:25%;
+    margin-left:2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .test3 {
+    width:25%;
+    margin-left: 2%;
+    background-color:hsl(219, 30%, 18%) ;
+    padding: 10px;
+  }
+  .search {
+      top: 91px;
+      height: 220px;
+      position: relative;
+      width: 40%;
+      margin-left: 25%;
+      margin-right: 5%;
+      background-color: hsl(218, 26%, 18%);
+      padding: 10px;
+  }
+  .search h1 {
+     font-size: 15px;
+  }
+  input {
+      margin-left: 0%;
+      width: 90%;
+      height: 5px;
+      margin-bottom: 15px;
+  }
+  .search p {
+      margin-left: 0%;
+      width: 90%;
+  
+     }
+     .footer {
+      width: 100%;
+      position: relative;
+      top: 30%;
+      display: flex !important;
+      flex-wrap: wrap !important;
+      background-color: hsl(216, 53%, 9%);
+  }
+  .fo1{width:25% !important ; margin-left: 2% !important; margin-top: 5%;}
+  .fo2{width:20% !important ; margin-left: 2%  !important;}
+  .fo3{width:20% !important; column-count: 2 ;}
+  .fo4{width:15% !important ; position: absolute; left:40%;top: 45%;}
+  .fo4 svg {margin-left: 15px; cursor: pointer;}
+
+  .fo4 svg {
+    width: 25px;
+    height: 30px;
+    fill: white;
+}
+  .img{position: absolute; margin-left: 15%;
+    z-index: 15;margin-top: 0;}
+ 
+  }
